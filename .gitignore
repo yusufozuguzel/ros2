@@ -1,0 +1,13 @@
+# Derlenmiş dosyalar
+service-client_sistemi/build/
+service-client_sistemi/install/
+service-client_sistemi/log/
+
+# Python cache
+*.pyc
+*.pyo
+__pycache__/
+
+# Diğer
+*.swp
+*.bak

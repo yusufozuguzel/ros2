@@ -1,0 +1,12 @@
+# Request (Kullanıcı Girdileri)
+float64 taban
+float64 yukseklik
+float64 kenar1
+float64 kenar2
+float64 kenar3
+int32 mod  # 1: Alan Hesaplama, 2: Çevre Hesaplama
+
+---
+# Response (Sonuç veya mesaj döndürme)
+float64 sonuc  # Alan ya da Çevre için değişken
+string mesaj   # Kullanıcıya mesaj

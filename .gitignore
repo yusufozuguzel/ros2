@@ -3,6 +3,11 @@ service-client_sistemi/build/
 service-client_sistemi/install/
 service-client_sistemi/log/
 
+launch/build/
+launch/install/
+launch/log/
+
+
 # Python cache
 *.pyc
 *.pyo

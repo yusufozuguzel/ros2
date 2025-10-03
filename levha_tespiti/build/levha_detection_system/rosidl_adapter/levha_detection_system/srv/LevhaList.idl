@@ -1,0 +1,31 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from levha_detection_system/srv/LevhaList.srv
+// generated code does not contain a copyright notice
+
+
+module levha_detection_system {
+  module srv {
+    @verbatim (language="comment", text=
+      " Request")
+    struct LevhaList_Request {
+      sequence<string> levha_adlari;
+
+      sequence<float> confidences;
+
+      sequence<float> xs;
+
+      sequence<float> ys;
+
+      boolean statu;
+    };
+    @verbatim (language="comment", text=
+      " Response")
+    struct LevhaList_Response {
+      string en_yakin_levha;
+
+      float uzaklik;
+
+      string durum;
+    };
+  };
+};

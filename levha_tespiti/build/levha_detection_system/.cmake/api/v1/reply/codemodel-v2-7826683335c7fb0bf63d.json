@@ -1,0 +1,213 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				},
+				{
+					"build" : "levha_detection_system__py",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/yusuf/ros2_ws/build/levha_detection_system/levha_detection_system__py",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "levha_detection_system",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "levha_detection_system::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-levha_detection_system-2e3e8862b09321a3c316.json",
+					"name" : "levha_detection_system",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "levha_detection_system__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-levha_detection_system__cpp-1aba6a954f384cb23c19.json",
+					"name" : "levha_detection_system__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "levha_detection_system__py::@a8cd9c30e106298e00d1",
+					"jsonFile" : "target-levha_detection_system__py-80f9af959d1c158cf28c.json",
+					"name" : "levha_detection_system__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "levha_detection_system__python::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-levha_detection_system__python-049cdd7b4b04bbd371fe.json",
+					"name" : "levha_detection_system__python",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "levha_detection_system__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-levha_detection_system__rosidl_generator_c-3e0669247452061edbc4.json",
+					"name" : "levha_detection_system__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "levha_detection_system__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-levha_detection_system__rosidl_typesupport_c-a5036e0c4c6c9b7d6d36.json",
+					"name" : "levha_detection_system__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "levha_detection_system__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-levha_detection_system__rosidl_typesupport_c__pyext-d5195ee211c82bc360a6.json",
+					"name" : "levha_detection_system__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "levha_detection_system__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-levha_detection_system__rosidl_typesupport_cpp-39dcd890b85b76d45390.json",
+					"name" : "levha_detection_system__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "levha_detection_system__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-levha_detection_system__rosidl_typesupport_fastrtps_c-4da254debc2f08fca5f4.json",
+					"name" : "levha_detection_system__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "levha_detection_system__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-levha_detection_system__rosidl_typesupport_fastrtps_c__pyext-fe98f666c6963151ad4e.json",
+					"name" : "levha_detection_system__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "levha_detection_system__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-levha_detection_system__rosidl_typesupport_fastrtps_cpp-32e1bca3f181def34358.json",
+					"name" : "levha_detection_system__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "levha_detection_system__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-levha_detection_system__rosidl_typesupport_introspection_c-b4e3da5f9445717a242e.json",
+					"name" : "levha_detection_system__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "levha_detection_system__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-levha_detection_system__rosidl_typesupport_introspection_c__pyext-0248a888c445132adba1.json",
+					"name" : "levha_detection_system__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "levha_detection_system__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-levha_detection_system__rosidl_typesupport_introspection_cpp-e614e4df092b683e7edd.json",
+					"name" : "levha_detection_system__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "levha_detection_system_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-levha_detection_system_uninstall-e10f677faf59450db930.json",
+					"name" : "levha_detection_system_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-ef0f05595e22e2c3e301.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/yusuf/ros2_ws/build/levha_detection_system",
+		"source" : "/home/yusuf/ros2_ws/src/levha_detection_system"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

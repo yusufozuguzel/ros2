@@ -1,0 +1,6 @@
+Invoking command in '/home/yusuf/ros2_ws/build/levha_detection_system': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/yusuf/ros2_ws/src/levha_detection_system -DCMAKE_INSTALL_PREFIX=/home/yusuf/ros2_ws/install/levha_detection_system
+Invoked command in '/home/yusuf/ros2_ws/build/levha_detection_system' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/yusuf/ros2_ws/src/levha_detection_system -DCMAKE_INSTALL_PREFIX=/home/yusuf/ros2_ws/install/levha_detection_system
+Invoking command in '/home/yusuf/ros2_ws/build/levha_detection_system': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/yusuf/ros2_ws/build/levha_detection_system -- -j12 -l12
+Invoked command in '/home/yusuf/ros2_ws/build/levha_detection_system' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/yusuf/ros2_ws/build/levha_detection_system -- -j12 -l12
+Invoking command in '/home/yusuf/ros2_ws/build/levha_detection_system': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/yusuf/ros2_ws/build/levha_detection_system
+Invoked command in '/home/yusuf/ros2_ws/build/levha_detection_system' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/yusuf/ros2_ws/build/levha_detection_system

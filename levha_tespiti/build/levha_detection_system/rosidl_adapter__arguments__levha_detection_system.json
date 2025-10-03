@@ -1,0 +1,6 @@
+{
+  "package_name": "levha_detection_system",
+  "non_idl_tuples": [
+    "/home/yusuf/ros2_ws/src/levha_detection_system:srv/LevhaList.srv"
+  ]
+}

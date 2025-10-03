@@ -7,6 +7,10 @@ launch/build/
 launch/install/
 launch/log/
 
+levha_tespit/build/
+levha_tespit/install/
+levha_tespit/log/
+
 
 # Python cache
 *.pyc

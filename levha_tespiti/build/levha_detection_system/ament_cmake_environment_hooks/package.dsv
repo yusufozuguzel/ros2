@@ -1,0 +1,4 @@
+source;share/levha_detection_system/local_setup.bash
+source;share/levha_detection_system/local_setup.dsv
+source;share/levha_detection_system/local_setup.sh
+source;share/levha_detection_system/local_setup.zsh
